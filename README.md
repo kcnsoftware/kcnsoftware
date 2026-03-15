@@ -19,8 +19,8 @@ Donanım ve yazılımın kesiştiği noktada, veriyi fiziksel dünyadan dijital 
 | Alan | Araçlar & Teknolojiler |
 | :--- | :--- |
 | **Yazılım Dilleri** | `C++`, `Python`, `SQL`, `JavaScript` |
-| **Donanım & IoT** | `ESP32`, `Arduino`, `Sensör Entegrasyonu (ADXL345, MAX30100)` |
-| **Web & UI/UX** | `Flask`, `Tailwind CSS`, `HTML5/CSS3 (Neon Style)` |
+| **Donanım & IoT** | `ESP32`, `Arduino`, `Sensör Entegrasyonu` |
+| **Web & UI/UX** | `Flask`, `Tailwind CSS`, `HTML5/CSS3` |
 | **Tasarım Araçları** | `Adobe Illustrator`, `Canva`, `Figma` |
 | **Sistem & Güvenlik** | `Kali Linux`, `Pentesting Temelleri` |
 
