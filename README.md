@@ -45,8 +45,8 @@ Donanım ve yazılımın kesiştiği noktada, veriyi fiziksel dünyadan dijital 
 
 ### 📫 Benimle İletişime Geçin
 
-- **LinkedIn:** [Profil Linkin Buraya]
-- **E-posta:** [E-posta Adresin Buraya]
+- **LinkedIn:** 
+- **E-posta:** 
 
 ---
 
