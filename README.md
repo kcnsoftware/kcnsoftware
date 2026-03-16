@@ -37,15 +37,16 @@ Donanım ve yazılımın kesiştiği noktada, veriyi fiziksel dünyadan dijital 
 ### 📊 GitHub İstatistiklerim
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kcnsoftware&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcnsoftware&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kcnsoftware&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Kcn's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcnsoftware&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Most Used Languages" height="180" />
 </p>
+
 ---
 
 ### 📫 Benimle İletişime Geçin
 
-- **LinkedIn:** 
-- **E-posta:** 
+- **LinkedIn:** [Profil Linkin Buraya]
+- **E-posta:** [E-posta Adresin Buraya]
 
 ---
 
